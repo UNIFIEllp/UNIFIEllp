@@ -6,9 +6,13 @@ Welcome to our GitHub repository! We specialize in designing and web development
 
 - 👯 We are looking to collaborate on [LinkedIn](https://www.linkedin.com/company/unifie-entertainment-technology-llp/) 
 
-- 💬 Ask me about **React or Worpress**
+- 🌱 Ask me about **React or Worpress**
 
 - 📫 How to reach me **https://www.unifie.in/contact-us/**
+
+- ⚡Fun Fact Honey never spoils and can last for centuries. 🍯
+
+- 💬 ask me about anything, i am happy to help 
  
 
 <h3 align="left">Connect with me:</h3>
