@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, Welcome to UNIFIE.in 💻! </h2>
  
-Welcome to our GitHub repository! We specialize in web development using React.js and WordPress. Our team creates dynamic, responsive websites that deliver exceptional user experiences. Explore our projects, collaborate with us, and leverage our expertise to elevate your online presence. Your digital journey starts here.
+Welcome to our GitHub repository! We specialize in designing and web development using React.js and WordPress. Our team creates dynamic, responsive websites that deliver exceptional user experiences. Explore our projects, collaborate with us, and leverage our expertise to elevate your online presence. Your digital journey starts here.
 
 - 🔭 We currently working on [Assetorix](https://assetorix.vercel.app/)
 
