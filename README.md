@@ -4,7 +4,7 @@ Welcome to our GitHub repository! We specialize in designing and web development
 
 - 🔭 We are currently working on [Assetorix](https://assetorix.vercel.app/)
 
-- 👯 We are looking to collaborate on **LinkedIn**
+- 👯 We are looking to collaborate on [LinkedIn](https://www.linkedin.com/company/unifie-entertainment-technology-llp/) 
 
 - 💬 Ask me about **React or Worpress**
 
