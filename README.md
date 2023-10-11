@@ -47,8 +47,10 @@ Ready to take your business to the next level? Contact us today to discover how 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/unifiellp/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/unifie-entertainment-technology-llp/) 
 [![Follow us on Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/unifiellp) 
-[![Email us](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://twitter.com/unifiellp)  
-
+[![Email us](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://twitter.com/unifiellp)   
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" color="red">
+</p>
 
 <!--
 <p align="left" margin="0px" width="400px"> <img src="https://komarev.com/ghpvc/?username=UNIFIEllp&label=Profile%20views&color=0e75b6" alt="UNIFIEllp" /> </p>  
