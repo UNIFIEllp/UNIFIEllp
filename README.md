@@ -3,21 +3,6 @@
 Your Gateway to Success in Branding, Advertising, and Marketing 
 At Unifie, we understand that every business is unique, with its specific needs and aspirations. That's where we come in. Our experienced team is dedicated to understanding your business requirements and helping you elevate your brand to new heights.
 
-## Who We Are
-
-Whether you're a budding startup or an established organization, we're committed to driving sustainable growth through innovative and creative solutions. Our mission is to provide tailored, result-oriented, and industry-specific digital solutions. We specialize in:
-
-- Brand Strategy
-- Digital Transformation
-- Consumer Insights
-- And more
-
-## Why Choose Unifie?
-
-As one of the top digital agencies in Delhi, we're here to create a sustainable future for generations to come. We're dedicated to delivering exceptional results that will set your business apart. Our services are designed to boost your brand, engage your target audience, and drive more leads, traffic, and revenue.
-
-
-
 - 🔭 We are currently working on [Assetorix](https://assetorix.vercel.app/)
 
 - 👯 We are looking to collaborate on [LinkedIn](https://www.linkedin.com/company/unifie-entertainment-technology-llp/) 
@@ -29,6 +14,20 @@ As one of the top digital agencies in Delhi, we're here to create a sustainable 
 - ⚡Fun Fact Honey never spoils and can last for centuries. 🍯
 
 - 💬 ask me about anything, i am happy to help
+  
+
+## Who We Are
+
+Whether you're a budding startup or an established organization, we're committed to driving sustainable growth through innovative and creative solutions. Our mission is to provide tailored, result-oriented, and industry-specific digital solutions. We specialize in:
+
+- Brand Strategy
+- Digital Transformation
+- Consumer Insights
+- And more
+
+## Why Choose Unifie?
+
+As one of the top digital agencies in Delhi, we're here to create a sustainable future for generations to come. We're dedicated to delivering exceptional results that will set your business apart. Our services are designed to boost your brand, engage your target audience, and drive more leads, traffic, and revenue.  
 
   
 <div style="display: flex;">
