@@ -7,7 +7,7 @@ At Unifie, we understand that every business is unique, with its specific needs 
 
 - 👯 We are looking to collaborate on [LinkedIn](https://www.linkedin.com/company/unifie-entertainment-technology-llp/) 
 
-- 🌱 Ask me about **React or Worpress**
+- 🌱 Ask me about **MERN or Worpress**
 
 - 📫 How to reach me **https://www.unifie.in/contact-us/**
 
