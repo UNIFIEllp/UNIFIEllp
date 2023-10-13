@@ -1,4 +1,4 @@
-# Welcome to Unifie Entertainment Technology LLP 💻!
+# Welcome to Unifie Entertainment Technology LLP 💻! 
 
 Your Gateway to Success in Branding, Advertising, and Marketing 
 At Unifie, we understand that every business is unique, with its specific needs and aspirations. That's where we come in. Our experienced team is dedicated to understanding your business requirements and helping you elevate your brand to new heights.
@@ -14,7 +14,8 @@ At Unifie, we understand that every business is unique, with its specific needs 
 - ⚡Fun Fact Honey never spoils and can last for centuries. 🍯
 
 - 💬 ask me about anything, i am happy to help
-  
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=unifiellp&label=Profile%20views&color=0e75b6&style=flat" alt="unifie" /> </p> 
 
 ## Who We Are
 
