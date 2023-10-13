@@ -1,19 +1,22 @@
 # Welcome to Unifie Entertainment Technology LLP 💻! 
 
 Your Gateway to Success in Branding, Advertising, and Marketing 
-At Unifie, we understand that every business is unique, with its specific needs and aspirations. That's where we come in. Our experienced team is dedicated to understanding your business requirements and helping you elevate your brand to new heights.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="380px" alt="Image Description">
+At Unifie, we understand that every business is unique, with its specific needs and aspirations. That's where we come in. Our experienced team is dedicated to understanding your business requirements and helping you elevate your brand to new heights.   
 
-- 🔭 We are currently working on [Assetorix](https://assetorix.vercel.app/)
 
-- 👯 We are looking to collaborate on [LinkedIn](https://www.linkedin.com/company/unifie-entertainment-technology-llp/) 
+<div align="center">
+  <p align="left">🔭 We are currently working on <a href="https://assetorix.vercel.app/">Assetorix</a></p>
+  <p align="left">👯 We are looking to collaborate on <a href="https://www.linkedin.com/company/unifie-entertainment-technology-llp/">LinkedIn</a></p>
+  <p align="left">🌱 Ask me about **MERN or WordPress**</p>
+  <p align="left">📫 How to reach me [here](https://www.unifie.in/contact-us/)</p>
+  <p align="left">⚡ Fun Fact: Honey never spoils and can last for centuries. 🍯</p>
+  <p align="left">💬 Ask me about anything; I am happy to help</p>
+</div>
 
-- 🌱 Ask me about **MERN or Worpress**
 
-- 📫 How to reach me **https://www.unifie.in/contact-us/**
 
-- ⚡Fun Fact Honey never spoils and can last for centuries. 🍯
 
-- 💬 ask me about anything, i am happy to help
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=unifiellp&label=Profile%20views&color=0e75b6&style=flat" alt="unifie" /> </p> 
 
